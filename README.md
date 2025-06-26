@@ -56,5 +56,5 @@ Suhail Khan
 git init
 git add .
 git commit -m "Initial commit - Web Calculator"
-git remote add origin https://github.com/your
+git remote add origin https://github.com/suhailkhan17
 git push -u origin main
