@@ -51,7 +51,7 @@ The project is open source and can be freely used under the MIT License.
 Suhail Khan
 📧 khansk0704@gmail.com
 🎓 B.Tech CSE Student, Teerthanker Mahaveer University
-🔗 LinkedIn (Replace with your link)
+🔗 LinkedIn https://www.linkedin.com/in/suhail-khan-56121a253/
 
 git init
 git add .
